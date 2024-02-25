@@ -3,13 +3,9 @@ wall of shields
 standing strong 
 on this their chosen battle field
 
-<<<<<<< HEAD
 Form the lines
 Shield by shield 
 Side by side
 We're marching into dextiny
 
-=======
-Form the lines 
-Shield by shield 
->>>>>>> 5ccad05302a32980385e6672e39117a62269da33
+some content
